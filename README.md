@@ -4,7 +4,7 @@
 <h4>Cette application vous sert à ajouter vos dépenses/recettes afin de vous aider à gérer votre budget.</h4>
 <hr>
 
-<h2>Technologies Used</h2>
+<h2>Technologies utlisées</h2>
 <hr>
 <ul>
   <li>CSS</li>
@@ -17,7 +17,7 @@
   <li>React Native</li>
 </ul>
 
-<h2>Setup</h2>
+<h2>Installation</h2>
 <hr>
 <p>Suivez les étapes ci dessous:</p>
 <ul>
@@ -25,7 +25,7 @@
   <li>Allez dans le dossier de votre choix</li>
 </ul>
 
-<h5>Steps</h5>
+<h5>Étapes</h5>
 <ul>
   <li><code>git clone https://github.com/ssfufu/Expense_tracker_RN</code></li>
 </ul>
